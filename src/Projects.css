@@ -1,0 +1,17 @@
+.projects {
+    padding: 40px;
+    text-align: center;
+  }
+  
+  .projects ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  /* Responsive Design */
+  @media (max-width: 768px) {
+    .projects {
+      padding: 20px;
+    }
+  }
+  
